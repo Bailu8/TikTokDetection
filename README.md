@@ -3,6 +3,7 @@
 # 抖音检测工具 使用说明
 
 ## 一、工具介绍
+<img width="1112" height="740" alt="image" src="https://github.com/user-attachments/assets/f070d6d7-9a23-4687-ba4b-a85b99945c91" />
 
 抖音检测工具是一个基于 Python + PyQt5 的桌面程序，用于批量检测域名或链接在抖音内部访问时是否会被拦截。工具通过抖音官方的跳转检测链接，对每个域名/链接发起请求，并根据返回内容判断是“正常”还是“拦截”。
 
